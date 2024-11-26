@@ -14,7 +14,7 @@ To access VERSO, simply log in using your University of Idaho credentials at [ve
 
 - Grant data comes from individual submissions due to not currently being connected to UI’s internal grant system, **Veras**, for data harvesting, although we hope to add this data stream in the future.
 
-{% include alert.html text="For instance, if you’ve published an article indexed in Web of Science and you have been a faculty member since this summer when initial data harvesting was done, VERSO likely already includes this information." color="light" align="right" %}
+{% include alert.html text="For instance: if you’ve published an article indexed in Web of Science and you have been a faculty member since this summer when initial data harvesting was done, VERSO likely already includes this information." color="light" align="right" %}
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>

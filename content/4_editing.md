@@ -24,8 +24,6 @@ If you are leading a small team that are all working on the same projects and yo
 
 ## Timeline
 
-{% include gallery-figure.html img="verso_08.gif" alt="Screen capture demonstration of how to message the VERSO team about any publication questions" caption="How to message the VERSO team about any publication questions" width="100%" %}
-
 **After submitting new content to your page**, please note that everything is moderated before these new items are added to your profile. [VERSO updates these items weekly](https://www.lib.uidaho.edu/verso/faq.html#collapse9){:target="_blank" rel="noopener"} and new faculty are added annually or upon receiving [VERSO Request Forms](https://uidaho.co1.qualtrics.com/jfe/form/SV_0rlPakZsYWSG4zc){:target="_blank" rel="noopener"}. If you do have any questions around why a submitted project hasn’t been approved, select the ellipses on the right of the `in process` item, then `Message`, which will go directly to admin.
 
 ## Digital Object Identifiers

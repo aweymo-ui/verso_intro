@@ -4,8 +4,6 @@ nav: Why VERSO?
 gallery: true
 ---
 
-{% include gallery-figure.html img="verso_03.png" alt="Summary of VERSO's current repository holdings" caption="Summary of VERSO's current repository holdings" width="100%" %}
-
 To begin: **Why did we decide to move from our previous repository VIVO?**
 
 - **Increased Visibility:** VERSO makes research and creative projects more accessible and searchable online, enhancing their visibility.
@@ -13,7 +11,7 @@ To begin: **Why did we decide to move from our previous repository VIVO?**
     - *"Data Harvesting*", put simply, is the process of automatically gathering information from various online sources to organize and centralize this information, in this case, in VERSO.
 - **Departmental Support:** VERSO provides analytics to promote department work and preserves research-related products, helping to prevent data loss during faculty or student transitions.
 
-{% include gallery-figure.html img="verso_01.png" alt="Map of VERSO material download by country" caption="Map of VERSO material download by country" width="100%" %}
+{% include gallery-figure.html img="verso_03.png" alt="Summary of VERSO's current repository holdings" caption="Summary of VERSO's current repository holdings" width="100%" %}
 
 Another reason the library is developing VERSO is the **breadth of scholarly output it can showcase**. Along with traditional materials like theses, dissertations and peer reviewed articles, VERSO also highlight undervalued output such as:
 
