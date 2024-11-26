@@ -34,5 +34,5 @@ var store = [
     { 
         "url": "/verso_intro/",
         "title": "Home",
-        "text": "CALS Liaison Introduction slides Transcript, links and slide deck of introductory presentation for students, staff and faculty engaging with University of Idaho Library’s VERSO institutional repository platform. Contents: Introduction Why VERSO? Accessing Your Page Editing and Adding Work Privacy Conclusion and Resources Content: CC BY-NC-ND 4.0 Andrew Weymouth 2024 (get source code). Theme: Variation on workshop-template-b by evanwill"
+        "text": "University of Idaho VERSO Guide slides Transcript, links and slide deck of introductory presentation for students, staff and faculty engaging with University of Idaho Library’s VERSO institutional repository platform. Contents: Introduction Why VERSO? Accessing Your Page Editing and Adding Work Privacy Conclusion and Resources Content: CC BY-NC-ND 4.0 Andrew Weymouth 2024 (get source code). Theme: Variation on workshop-template-b by evanwill"
     }];

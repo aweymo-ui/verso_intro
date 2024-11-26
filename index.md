@@ -4,7 +4,7 @@ layout: page
 gallery: true
 ---
 
-{% include gallery-figure.html img="banner.png" alt="Title card with a photo of the author and an image of a data visualization" caption="CALS Liaison Introduction" title="CALS Liaison Introduction" %}
+{% include gallery-figure.html img="banner.gif" alt="Title card with a photo of the author and an image of a data visualization" caption="University of Idaho VERSO Guide" title="University of Idaho VERSO Guide" %}
 
 - slides
 
