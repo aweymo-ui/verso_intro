@@ -11,7 +11,7 @@ Hello, my name is [Andrew Weymouth](https://www.lib.uidaho.edu/about/people/awey
     <p class="symbol">&#10042;</p>
 </div>
 
-{% include gallery-figure.html img="verso_04.gif" alt="Screen capture demonstration of navigating VERSO through research units" caption="Screen capture demonstration of navigating VERSO through research units." width="100%" %}
+{% include gallery-figure.html img="verso_04.gif" alt="Screen capture demonstration of navigating VERSO through research units" caption="Navigating VERSO through research units." width="100%" %}
 
 I’m here today to talk about [VERSO](https://www.lib.uidaho.edu/verso/){:target="_blank" rel="noopener"}, which stands for Vandal Expertise, Research, and Scholarship Online, which is being developed and maintained by [Associate Dean Research and Instruction Devin Becker](https://www.lib.uidaho.edu/about/people/dbecker.html){:target="_blank" rel="noopener"}, [Unit Head for Research and Experiential Learning Jeremy Kenyon](https://www.lib.uidaho.edu/about/people/jkenyon.html){:target="_blank" rel="noopener"} and team. 
 

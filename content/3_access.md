@@ -20,7 +20,7 @@ To access VERSO, simply log in using your University of Idaho credentials at [ve
     <p class="symbol">&#10042;</p>
 </div>
 
-{% include gallery-figure.html img="verso_05.gif" alt="Screen capture demonstration of locating and filling out the VERSO Profile Request form" caption="Demonstration of locating and filling out the VERSO Profile Request form" width="100%" %}
+{% include gallery-figure.html img="verso_05.gif" alt="Screen capture demonstration of locating and filling out the VERSO Profile Request form" caption="Locating and filling out the VERSO Profile Request form" width="100%" %}
 
 **If you do not already have a profile** due to potential gaps in this information or you are newer than the initial Banner data harvesting, you can request one by filling out the [VERSO Profile Request Form](https://uidaho.co1.qualtrics.com/jfe/form/SV_0rlPakZsYWSG4zc){:target="_blank" rel="noopener"}. Within, you can add all of the elements of your CV, your preferred profile photo and all of the aspects of your academic work, which VERSO puts into the following categories:
 

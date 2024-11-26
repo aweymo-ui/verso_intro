@@ -12,7 +12,7 @@ I created this bibliometric visualization for the ongoing [Taylor Wilderness Res
 
 If you have any questions about the material I went over today, please see the site I created for this presentation which has links to all of the material I’ve discussed and always feel free to reach out to [myself](https://www.lib.uidaho.edu/about/people/aweymouth.html){:target="_blank" rel="noopener"} or [any members of the team leading this project for more information](lib-verso@uidaho.edu){:target="_blank" rel="noopener"}. 
 
-Thank you.
+Thank you
 
 <br>
 

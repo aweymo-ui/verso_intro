@@ -28,8 +28,6 @@ Another reason the library is developing VERSO is the **breadth of scholarly out
 - **Outreach Activities:**
     - Public engagement efforts, such as workshops, events, or community service related to research.
 
-{% include gallery-figure.html img="verso_02.png" alt="Graph of publishing date of materials by year" caption="Graph of publishing date of materials by year" width="100%" %}
-
 {% include alert.html text="Highlighting these outputs ensures that all facets of your scholarship, including creative and public engagement activities, are recognized and valued." color="light" align="right" %}
 
 <div class="symbol-container">
