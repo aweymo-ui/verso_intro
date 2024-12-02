@@ -34,5 +34,5 @@ var store = [
     { 
         "url": "/verso_intro/",
         "title": "Home",
-        "text": "University of Idaho VERSO Guide slides Transcript, links and slides of introductory presentation for students, staff and faculty engaging with University of Idaho Library’s VERSO platform. Contents: Introduction Why VERSO? Accessing Your Page Editing and Adding Work Privacy Conclusion and Resources Content: CC BY-NC-ND 4.0 Andrew Weymouth 2024 (get source code). Theme: Variation on workshop-template-b by evanwill"
+        "text": "Banner with Bibliometric Visualization of Scholarly Output from Taylor Wilderness Research Station slides Transcript, links and slides of introductory presentation for students, staff and faculty engaging with University of Idaho Library’s VERSO platform. Contents: Introduction Why VERSO? Accessing Your Page Editing and Adding Work Privacy Conclusion and Resources Content: CC BY-NC-ND 4.0 Andrew Weymouth 2024 (get source code). Theme: Variation on workshop-template-b by evanwill"
     }];

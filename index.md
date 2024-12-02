@@ -4,7 +4,7 @@ layout: page
 gallery: true
 ---
 
-{% include gallery-figure.html img="banner.gif" alt="Title card with a photo of the author and an image of a data visualization" caption="University of Idaho VERSO Guide" title="University of Idaho VERSO Guide" %}
+{% include gallery-figure.html img="banner.gif" alt="Title card with a photo of the author and an image of a data visualization" caption="Banner with Bibliometric Visualization of Scholarly Output from Taylor Wilderness Research Station" title="Banner with Bibliometric Visualization of Scholarly Output from Taylor Wilderness Research Station" %}
 
 - [slides](https://indd.adobe.com/view/ff58330e-d569-4def-826f-e9cc7d0653ad){:target="_blank" rel="noopener"}
 
