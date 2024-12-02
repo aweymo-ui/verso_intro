@@ -16,7 +16,7 @@ Selecting the green `Add Content` button on the top right of the screen, you can
 
 {% include gallery-figure.html img="verso_07.gif" alt="Screen capture demonstration of adding a proxy who can add material for you in the future" caption="Adding a proxy who can add material for you in the future" width="100%" %}
 
-If you are leading a small team that are all working on the same projects and you would like to delegate updating profiles of all of the team members quarterly or biannually, you can go into the `Edit Profile` section, select `Researcher Proxies` and enter the email address of the person, thereby granting access to add future content.
+If you are leading a small team that are all working on the same projects and you would like to delegate updating profiles of all of the team members quarterly or biannually, you can go into the `Edit Profile` section, select `Researcher Proxies` and enter the email address of the person, thereby granting access to add future content on your page.
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>

@@ -21,8 +21,8 @@ I’m here today to talk about [VERSO](https://www.lib.uidaho.edu/verso/){:targe
 
 - As an **Institutional Repository** (IR), it allows faculty, students, and staff to deposit and preserve publications and materials
 
-This dual functionality makes VERSO a vital resource for advancing the visibility of your work, connecting you with potential collaborators and ensuring its digital preservation. 
-Note that VERSO is an iteration of the ExLibris platform [ESPLORO](https://knowledge.exlibrisgroup.com/Esploro){:target="_blank" rel="noopener"}, which you may see me linking to at various points in this presentation for documentation.
+This dual function makes VERSO a vital resource for advancing the visibility of your work, ensuring its digital preservation and connecting you with potential collaborators. 
+Note that VERSO is this team's iteration of the ExLibris platform [ESPLORO](https://knowledge.exlibrisgroup.com/Esploro){:target="_blank" rel="noopener"}, which you may see me linking to at various points in this presentation for documentation.
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>

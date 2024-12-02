@@ -7,8 +7,8 @@ gallery: true
 To begin: **Why did we decide to move from our previous repository VIVO?**
 
 - **Increased Visibility:** VERSO makes research and creative projects more accessible and searchable online, enhancing their visibility.
-- **Automated Updates:** Integrating with external platforms like **ORCID** and **Clarivate’s** extensive data index, VERSO automates research output updates and streamlines profile management through regularly harvesting these databases. 
-    - *"Data Harvesting*", put simply, is the process of automatically gathering information from various online sources to organize and centralize this information, in this case, in VERSO.
+- **Automated Updates:** Integrating with external platforms like **ORCID iD** and **Clarivate’s** extensive data index, VERSO automates research output updates and streamlines profile management through regularly harvesting these databases. 
+    - *"Data Harvesting*", put simply, is the process of automatically gathering information from digital sources to organize and centralize this data, in this case, in VERSO.
 - **Departmental Support:** VERSO provides analytics to promote department work and preserves research-related products, helping to prevent data loss during faculty or student transitions.
 
 {% include gallery-figure.html img="verso_03.png" alt="Summary of VERSO's current repository holdings" caption="Summary of VERSO's current repository holdings" width="100%" %}

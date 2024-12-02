@@ -6,9 +6,9 @@ gallery: true
 
 To access VERSO, simply log in using your University of Idaho credentials at [verso.uidaho.edu](verso.uidaho.edu){:target="_blank" rel="noopener"}. Once logged in, you can explore the platform, view your profile, and manage your research outputs. 
 
-**Even if this is your first time visiting the site, you are more than likely to find your account has already been created and your scholarly work has already been attached to this profile due to being harvested from the following sources:**
+**Even if this is your first time visiting the site, you will likely find your account has already been created and your scholarly work has already been attached to this profile due to being harvested from the following sources:**
 
-- Profile data and images are compiled from the **University of Idaho website** and **Banner**.
+- Profile data and professional images are compiled from the **University of Idaho website** and **Banner**.
 
 - Publications come from **Clarivate’s Central Discovery Index**, which in turn, gathers from sources such as **Web of Science**, **Pubmed**, **Crossref** and others.
 
@@ -24,7 +24,7 @@ To access VERSO, simply log in using your University of Idaho credentials at [ve
 
 **If you do not already have a profile** due to potential gaps in this information or you are newer than the initial Banner data harvesting, you can request one by filling out the [VERSO Profile Request Form](https://uidaho.co1.qualtrics.com/jfe/form/SV_0rlPakZsYWSG4zc){:target="_blank" rel="noopener"}. Within, you can add all of the elements of your CV, your preferred profile photo and all of the aspects of your academic work, which VERSO puts into the following categories:
 
-- **Output:** Tangible research products such as publications, datasets, presentations, or other creative works that result from scholarly activities.
+- **Output:** Tangible research products such as publications, datasets, presentations, or other creative works that result from scholarly projects.
 
 - **Activities:** Various professional or academic engagements, such as conference participation, workshops attended, or awards received. These activities help document the broader context of a researcher’s involvement in their field beyond their formal outputs.
 
